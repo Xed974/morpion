@@ -1,4 +1,4 @@
-plateau = [" " for _ in range(9)]  # crée un tableau de 9 caractères espaces " "
+plateau = [" " for _ in range(9)]
 
 
 def afficherPlateau(p, gagnant=None):
